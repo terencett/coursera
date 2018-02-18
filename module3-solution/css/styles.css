@@ -1,0 +1,51 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+h3 {
+	margin: 10px 0 20px 0;
+}
+
+/* Navbar styles */
+#header-nav {
+	background-color: #205F93;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand a {
+	font-size: 1.7em;
+	color: #FFF;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #FFF;
+}
+
+#nav-list {
+	background-color: #98CBF6;
+}
+
+#nav-list a:hover {
+	background-color: #D4D6D8;
+}
+
+#collapsable-nav a {
+	color: #000;
+}
+
+/* Menu item styles */
+#menu-item {
+	padding: 10px 25px;
+	margin: 0 0 30px 0;
+	text-align: justify;
+	background-color: #D4D6D8;
+}
